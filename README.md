@@ -20,11 +20,11 @@ In order to determine which "O" entries are connected to it and therefore cannot
 
 ## Time and Space Complexity:
 1. Breadth First Search
-Time Complexity : O(m*n)
-Space Complexity : O(m*n)
+Time Complexity : O(m * n)
+Space Complexity : O(m * n)
 2. Depth First Search
-Time Complexity : O(m*n)
-Space Complexity : O(m*n)
+Time Complexity : O(m * n)
+Space Complexity : O(m * n)
 where m,n are rows and columns in board.
 
 ## Test run
