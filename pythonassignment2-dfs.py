@@ -25,7 +25,7 @@ def solve(board):
         for j in range(n):
             if board[i][j]=='O':
                 board[i][j]='X'
-            if board[i][j]=='Y':
+            if board[i][j]=='N':
                 board[i][j]='O' 
 
 m = int(input("Enter no of columns = "))
